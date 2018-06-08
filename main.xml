@@ -1,0 +1,9 @@
+<DeviceRomInfoList>
+   <RomList>
+      <RomInfo>
+         <Command>getprop ro.aicp.device</Command>
+         <Output>markw</Output>
+         <XmlLink></XmlLink>
+      </RomInfo>
+   </RomList>
+</DeviceRomInfoList>
