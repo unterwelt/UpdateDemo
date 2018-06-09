@@ -3,7 +3,7 @@
       <RomInfo>
          <Command>getprop ro.aicp.device,</Command>
          <Output>markw,</Output>
-         <XmlLink>something</XmlLink>
+         <XmlLink>https://raw.githubusercontent.com/hdsrivastava/UpdateDemo/master/roms/AICP/rom.xml</XmlLink>
       </RomInfo>
 	  
 	   <RomInfo>
