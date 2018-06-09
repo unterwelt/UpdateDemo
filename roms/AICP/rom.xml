@@ -3,13 +3,13 @@
    <BuildCommand>getprop ro.modversion</BuildCommand>
    <ChangelogLink>changelog aicp</ChangelogLink>
    <Delimiter>-</Delimiter>
-   <DonationLink>werfderf</DonationLink>
-   <ForumLink>rere</ForumLink>
-   <GappsLink>gapp</GappsLink>
+   <DonationLink>http://www.google.com</DonationLink>
+   <ForumLink>http://www.google.com</ForumLink>
+   <GappsLink>http://www.google.com</GappsLink>
    <IconID>aicp</IconID>
-   <BuildLink>link</BuildLink>
-   <Maintainer>va be</Maintainer>
-   <Position>5</Position>
-   <RecoveryLink>wer</RecoveryLink>
-   <TelegramLink>werfcxdrfvc</TelegramLink>
+   <BuildLink>http://www.google.com</BuildLink>
+   <Maintainer>http://www.google.com</Maintainer>
+   <Position>4</Position>
+   <RecoveryLink>http://www.google.com</RecoveryLink>
+   <TelegramLink>http://www.google.com</TelegramLink>
 </Rom>
