@@ -3,19 +3,19 @@
       <RomInfo>
          <Command>getprop ro.aicp.device</Command>
          <Output>markw</Output>
-         <XmlLink></XmlLink>
+         <XmlLink>something</XmlLink>
       </RomInfo>
 	  
 	   <RomInfo>
          <Command>getprop ro.aokp.version</Command>
          <Output>markw</Output>
-         <XmlLink></XmlLink>
+         <XmlLink>random</XmlLink>
       </RomInfo>
 	  
 	   <RomInfo>
          <Command>getprop ro.validus.version,getprop ro.vendor.product.name</Command>
          <Output>Validus-markw,validus_markw</Output>
-         <XmlLink></XmlLink>
+         <XmlLink>y u do dis</XmlLink>
       </RomInfo>
    </RomList>
 </DeviceRomInfoList>
