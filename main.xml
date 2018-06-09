@@ -1,9 +1,21 @@
 <DeviceRomInfoList>
    <RomList>
       <RomInfo>
-         <Command>getprop ro.aicp.device,</Command>
-         <Output>markw,</Output>
-         <XmlLink>somelink</XmlLink>
+         <Command>getprop ro.aicp.device</Command>
+         <Output>markw</Output>
+         <XmlLink></XmlLink>
+      </RomInfo>
+	  
+	   <RomInfo>
+         <Command>getprop ro.aokp.version</Command>
+         <Output>markw</Output>
+         <XmlLink></XmlLink>
+      </RomInfo>
+	  
+	   <RomInfo>
+         <Command>getprop ro.validus.version,getprop ro.vendor.product.name</Command>
+         <Output>Validus-markw,validus_markw</Output>
+         <XmlLink></XmlLink>
       </RomInfo>
    </RomList>
 </DeviceRomInfoList>
