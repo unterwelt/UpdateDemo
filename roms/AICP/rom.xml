@@ -1,0 +1,15 @@
+<Rom>
+   <BuildCode>7062018</BuildCode>
+   <BuildCommand>getprop ro.modversion</BuildCommand>
+   <ChangelogLink>changelog aicp</ChangelogLink>
+   <Delimiter>-</Delimiter>
+   <DonationLink>werfderf</DonationLink>
+   <ForumLink>rere</ForumLink>
+   <GappsLink>gapp</GappsLink>
+   <IconID>R.drawable.aicp</IconID>
+   <BuildLink>link</BuildLink>
+   <Maintainer>va be</Maintainer>
+   <Position>4</Position>
+   <RecoveryLink>wer</RecoveryLink>
+   <TelegramLink>werfcxdrfvc</TelegramLink>
+</Rom>
