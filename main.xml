@@ -1,14 +1,14 @@
 <DeviceRomInfoList>
    <RomList>
       <RomInfo>
-         <Command>getprop ro.aicp.device</Command>
-         <Output>markw</Output>
+         <Command>getprop ro.aicp.device,</Command>
+         <Output>markw,</Output>
          <XmlLink>something</XmlLink>
       </RomInfo>
 	  
 	   <RomInfo>
-         <Command>getprop ro.aokp.version</Command>
-         <Output>markw</Output>
+         <Command>getprop ro.aokp.version,</Command>
+         <Output>markw,</Output>
          <XmlLink>random</XmlLink>
       </RomInfo>
 	  
