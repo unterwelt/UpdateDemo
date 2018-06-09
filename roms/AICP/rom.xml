@@ -1,15 +1,15 @@
 <Rom>
    <BuildCode>7062018</BuildCode>
    <BuildCommand>getprop ro.modversion</BuildCommand>
-   <ChangelogLink>changelog aicp</ChangelogLink>
+   <ChangelogLink>Changelog aicp</ChangelogLink>
    <Delimiter>-</Delimiter>
-   <DonationLink>http://www.google.com</DonationLink>
-   <ForumLink>http://www.google.com</ForumLink>
-   <GappsLink>http://www.google.com</GappsLink>
+   <DonationLink>https://www.paypal.me/unterwelt</DonationLink>
+   <ForumLink>https://forum.xda-developers.com/redmi-4-prime/>
+   <GappsLink>https://opengapps.org/</GappsLink>
    <IconID>aicp</IconID>
-   <BuildLink>http://www.google.com</BuildLink>
+   <BuildLink>https://drive.google.com/open?id=1A_-wYQF1IJ1n1q_tlSsoFQCvdbJs47qH</BuildLink>
    <Maintainer>Va Be</Maintainer>
    <Position>4</Position>
    <RecoveryLink>http://www.google.com</RecoveryLink>
-   <TelegramLink>http://www.google.com</TelegramLink>
+   <TelegramLink>tg://join?invite=GIipsxIDOQxumb-ayOOrvQ</TelegramLink>
 </Rom>
