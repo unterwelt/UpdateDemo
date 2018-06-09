@@ -1,10 +1,10 @@
 <Rom>
-   <BuildCode>7062018</BuildCode>
+   <BuildCode>18062018</BuildCode>
    <BuildCommand>getprop ro.modversion</BuildCommand>
    <ChangelogLink>Changelog aicp</ChangelogLink>
    <Delimiter>-</Delimiter>
    <DonationLink>https://www.paypal.me/unterwelt</DonationLink>
-   <ForumLink>https://forum.xda-developers.com/redmi-4-prime</ForumLink>
+   <ForumLink>https://forum.xda-developers.com/redmi-4-prime/</ForumLink>
    <GappsLink>https://opengapps.org/</GappsLink>
    <IconID>aicp</IconID>
    <BuildLink>https://drive.google.com/open?id=1A_-wYQF1IJ1n1q_tlSsoFQCvdbJs47qH</BuildLink>
