@@ -3,25 +3,25 @@
       <RomInfo>
          <Command>getprop ro.aicp.device,</Command>
          <Output>markw,</Output>
-         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/AICP/icp.xml</XmlLink>
+         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/aicp.xml</XmlLink>
       </RomInfo>
 	  
       <RomInfo>
          <Command>getprop ro.aokp.version,</Command>
          <Output>markw,</Output>
-         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/AICP/aokp.xml</XmlLink>
+         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/aokp.xml</XmlLink>
       </RomInfo>
 	  
       <RomInfo>
          <Command>getprop ro.validus.version,getprop ro.vendor.product.name</Command>
          <Output>Validus-markw,validus_markw</Output>
-         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/AICP/validus.xml</XmlLink>
+         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/validus.xml</XmlLink>
       </RomInfo>
 	   
       <RomInfo>
          <Command>getprop ro.rr.device,getprop ro.rr.version</Command>
          <Output>markw,markw</Output>
-         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/AICP/rr.xml</XmlLink>
+         <XmlLink>https://raw.githubusercontent.com/unterwelt/Voodoo-Updater/master/roms/rr.xml</XmlLink>
       </RomInfo>
    </RomList>
 </DeviceRomInfoList>

@@ -1,8 +1,8 @@
 <Rom>
-   <BuildCode>2018-06-07_0749</BuildCode>
+   <BuildCode>20180706</BuildCode>
    <BuildCommand>getprop ro.modversion</BuildCommand>
    <ChangelogLink>Changelog aokp</ChangelogLink>
-   <Delimiter>-</Delimiter>
+   <Delimiter>_</Delimiter>
    <DonationLink>https://www.paypal.me/unterwelt</DonationLink>
    <ForumLink>https://forum.xda-developers.com/redmi-4-prime/</ForumLink>
    <GappsLink>https://opengapps.org/</GappsLink>

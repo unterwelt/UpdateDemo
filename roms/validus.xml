@@ -1,15 +1,15 @@
 <Rom>
-   <BuildCode>2018-06-07_0749</BuildCode>
+   <BuildCode>20180706</BuildCode>
    <BuildCommand>getprop ro.modversion</BuildCommand>
-   <ChangelogLink>Changelog Validus</ChangelogLink>
+   <ChangelogLink>Changelog validus</ChangelogLink>
    <Delimiter>-</Delimiter>
    <DonationLink>https://www.paypal.me/unterwelt</DonationLink>
    <ForumLink>https://forum.xda-developers.com/redmi-4-prime/</ForumLink>
    <GappsLink>https://opengapps.org/</GappsLink>
-   <IconID>aicp</IconID>
+   <IconID>validus</IconID>
    <BuildLink>https://drive.google.com/open?id=1A_-wYQF1IJ1n1q_tlSsoFQCvdbJs47qH</BuildLink>
    <Maintainer>Va Be</Maintainer>
-   <Position>4</Position>
+   <Position>5</Position>
    <RecoveryLink>http://www.google.com</RecoveryLink>
    <TelegramLink>tg://join?invite=GIipsxIDOQxumb-ayOOrvQ</TelegramLink>
 </Rom>
