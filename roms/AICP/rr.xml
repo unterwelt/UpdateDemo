@@ -1,0 +1,15 @@
+<Rom>
+   <BuildCode>20181006</BuildCode>
+   <BuildCommand>getprop ro.modversion</BuildCommand>
+   <ChangelogLink>Changelog rr</ChangelogLink>
+   <Delimiter>-</Delimiter>
+   <DonationLink>https://www.paypal.me/unterwelt</DonationLink>
+   <ForumLink>https://forum.xda-developers.com/redmi-4-prime/</ForumLink>
+   <GappsLink>https://opengapps.org/</GappsLink>
+   <IconID>aok</IconID>
+   <BuildLink>https://drive.google.com/open?id=1A_-wYQF1IJ1n1q_tlSsoFQCvdbJs47qH</BuildLink>
+   <Maintainer>Va Be</Maintainer>
+   <Position>4</Position>
+   <RecoveryLink>http://www.google.com</RecoveryLink>
+   <TelegramLink>tg://join?invite=GIipsxIDOQxumb-ayOOrvQ</TelegramLink>
+</Rom>
