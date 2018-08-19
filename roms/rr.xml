@@ -1,5 +1,5 @@
 <Rom>
-   <BuildCode>20182406</BuildCode>
+   <BuildCode>20181908</BuildCode>
    <BuildCommand>getprop ro.modversion</BuildCommand>
    <ChangelogLink>Changelog rr</ChangelogLink>
    <Delimiter>-</Delimiter>
